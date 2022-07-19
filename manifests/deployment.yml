@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "patternpocaks-1274"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "patternpocaks-1274"
+  template:
+    metadata:
+      labels:
+        app: "patternpocaks-1274"
+    spec:
+      containers:
+        - name: "patternpocaks-1274"
+          image: "patternpilot.azurecr.io/patternpocaks"
+          ports:
+          - containerPort: 80
