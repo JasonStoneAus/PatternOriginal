@@ -20,5 +20,6 @@ exec "$@"' > /tmp/start.sh
 RUN chmod +x /tmp/start.sh
 
 WORKDIR /workdir
+ADD . ./
 
 ENTRYPOINT ["/tmp/start.sh"]
