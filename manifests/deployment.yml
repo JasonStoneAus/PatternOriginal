@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: patternpilotdocker 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: patternpilotdocker
+  template:
+    metadata:
+      labels:
+        app: patternpilotdocker 
+    spec:
+      containers:
+        - name: patternpilotdocker 
+          image: patternpilot.azurecr.io/patternpilotdocker
+          ports:
+          - containerPort: 80
