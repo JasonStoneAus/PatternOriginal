@@ -5,7 +5,7 @@
 - name: Access the blueprint configuration documentation
   url: /blueprint/index.html
   desc: |
-    A blueprint is a design for a secure, modern system architected with Information Security Manual (ISM) compliance and NIST (National Institute of Standards and Technology)
+    A blueprint is a design for a secure, modern system architected with Information Security Manual (ISM) compliance and National Institute of Standards and Technology (NIST) Zero Trust principles.
   url: /about/business-change-guide.html
   desc: |
     We have published a guide based on previously implemented blueprint configurations. You can use this to support your business change program.
