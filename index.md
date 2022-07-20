@@ -7,7 +7,7 @@ benefits:
   Implementing a blueprint or pattern architecture helps you make better use of your resources, allowing you to focus on core business activities.
 - |
   ### Better communication and collaboration
-  The blueprints and pattern architectures standardise how we work across the organisation. It makes ensuring Defences security integretity is safer to deploy and easier to maintain across the organisations ICT eco-system.
+  The blueprints and pattern architectures standardise how we work across the organisation. It ensures Defences security integrity is maintained, and provides consistent a repeatable approach to for solution deployments across the organisations ICT eco-system.
 - |
   ### Improved security posture
   The blueprints guide you through the uplift of a systems cyber security posture, and assists with the Australian Signals Directorate Essential Eight maturity and Information Security Manual Compliance.
