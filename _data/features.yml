@@ -1,16 +1,16 @@
 - name: About
   url: /about/index.html
   desc: |
-    An overview of the Protected Utility.
-- name: Access the blueprint
+    An overview of the architecture patterns and configuration blueprints.
+- name: Access the blueprint configuration documentation
   url: /blueprint/index.html
   desc: |
-    The blueprint is a design for a secure, modern desktop based on Microsoft 365.
-- name: How you can implement the blueprint
+    A blueprint is a design for a secure, modern system architected with ISM compliance and NIST zero trust principles at its core.
+- name: How you can implement a blueprint configuration
   url: /about/business-change-guide.html
   desc: |
-    We have published a guide based on agencies who have implemented the blueprint. You can use this to support your business change program.
-- name: Help us improve the blueprint
-  url: https://github.com/govau/desktop.gov.au
+    We have published a guide based on previously  implemented blueprints. You can use this to support your business change program.
+- name: Help us improve the blueprints and architecture patterns
+  url: https://github.com/govau/defence.gov.au
   desc: |
-    Collaborate and help us improve the blueprint.
+    Collaborate and help us improve the blueprints and architecture patterns.
