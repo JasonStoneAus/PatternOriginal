@@ -1,0 +1,4 @@
+algolia:
+  application_id: "AAA"
+  index_name: "BBB"
+  search_only_api_key: "CCC"
