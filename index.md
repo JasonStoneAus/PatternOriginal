@@ -16,11 +16,9 @@ benefits:
   Increase your staff mobility, workplace flexibility and empower your people with modern ways of working.
 ---
 
-Welcome to the website for the Digital Transformation Agency's Protected Utility blueprint. The blueprint is a design for a secure, modern, desktop based on Microsoft 365. You can use the blueprint as a pattern for implementing a secure desktop operating system in your agency.
+Welcome to the website for the ICTAB SIESA Patterns and blueprints . The patterns and blueprints provide baselines for secure, modern systems. The patterns can be used when  implementing a secure systems within the organisations.
 
-*	Standardise how government agencies operate their desktops.
-*	Improve collaboration within and across agencies.
+*	Standardise how government agencies operate their environment.
+*	Improve collaboration within the organisation.
 *	Help achieve a cyber security uplift across government.
-*	Help agencies transition to cloud-based capability and adopt the blueprint.
-
-This website helps you understand what the blueprint is, why your agency should adopt the blueprint and how you can implement it.
+*	Help transition to cloud-based capability and adopt secure practices.
