@@ -5,11 +5,10 @@
 - name: Access the blueprint configuration documentation
   url: /blueprint/index.html
   desc: |
-    A blueprint is a design for a secure, modern system architected with ISM compliance and NIST zero trust principles at its core.
-- name: How you can implement a blueprint configuration
+    A blueprint is a design for a secure, modern system architected with Information Security Manual (ISM) compliance and NIST (National Institute of Standards and Technology)
   url: /about/business-change-guide.html
   desc: |
-    We have published a guide based on previously  implemented blueprints. You can use this to support your business change program.
+    We have published a guide based on previously implemented blueprint configurations. You can use this to support your business change program.
 - name: Help us improve the blueprints and architecture patterns
   url: https://github.com/govau/defence.gov.au
   desc: |
