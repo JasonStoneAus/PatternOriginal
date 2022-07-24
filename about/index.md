@@ -4,9 +4,9 @@ title: About
 permalink: /about/index.html
 ---
 
-The DTA supports the Protected Utility [blueprint](/blueprint/), a design for a secure, modern desktop based on Microsoft 365. This pattern can be used by government agencies or service providers as required for implementing an operating system which is up to date and complies with the Australian Government [Information Security Manual](https://www.cyber.gov.au/acsc/view-all-content/ism).
+ICTAB supports the [blueprints](/blueprint/) to enable common adoptions of designs for secure, modern systems. These blueprints can be used by Defence organisations or service providers as required for implementing an system which is up to date and complies with the Australian Government [Information Security Manual](https://www.cyber.gov.au/acsc/view-all-content/ism).
 
-The blueprint helps to standardise how Government agencies operate their desktops, improve collaboration within and across agencies, and uplifts cyber security across government.
+The blueprint helps to standardise how the organisation operates its desktops, improve collaboration within and across agencies, and uplifts cyber security across the organisations ICT eco-system.
 
 ## Modern workplace
 
