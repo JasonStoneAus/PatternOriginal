@@ -3,9 +3,9 @@ layout: page
 title: Patterns
 ---
 
-A pattern is a set of controls that streamline the implementation of specific system(s) to complement your blueprint Microsoft 365 environment.
+A pattern is a set of controls that streamline the implementation of a system(s).
 
-Although these patterns have been implemented by other agencies, they are not bundled with the blueprint and are not represented in the blueprint's [security documentation suite](/blueprint/security.html). It is advised that a risk-based assessment is undertaken and configuration adapted to business needs where required.
+Although these patterns may have been implemented by other areas of the organisation, they are not bundled with a particular blueprint and are not represented in any blueprint's [security documentation suite](/blueprint/security.html). It is advised that a risk-based assessment is undertaken and configuration adapted to business needs where required.
 
 Name | Category | Description
 -- | -- | --
