@@ -17,3 +17,18 @@ spec:
           image: patternpilot.azurecr.io/patterndefault
           ports:
           - containerPort: 80
+
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: patterndefault
+  annotations:
+    kubernetes.io/ingress.class: azure/application-gateway
+spec:
+  rules:
+  - http:
+      paths:
+      - path: /
+        backend:
+          serviceName: patterndefault
+          servicePort: 80
