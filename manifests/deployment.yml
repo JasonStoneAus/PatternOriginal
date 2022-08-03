@@ -31,5 +31,5 @@ spec:
       paths:
       - path: /
         backend:
-          serviceName: patterndefault
+          serviceName: frontend
           servicePort: 80
