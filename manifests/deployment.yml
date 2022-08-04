@@ -17,3 +17,4 @@ spec:
           image: archwebsiteacr.azurecr.io/archwebsite
           ports:
           - containerPort: 80
+          protocol: TCP
