@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: patternpilot 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: patternpilot
+  template:
+    metadata:
+      labels:
+        app: patternpilot 
+    spec:
+      containers:
+        - name: patternpilot 
+          image: archwebsiteacr.azurecr.io/patternpilot
+          ports:
+          - containerPort: 80
