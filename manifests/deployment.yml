@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: webdev 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: webdev
+  template:
+    metadata:
+      labels:
+        app: webdev 
+    spec:
+      containers:
+        - name: webdev 
+          image: archwebsiteacr.azurecr.io/webdev
+          ports:
+          - containerPort: 80
